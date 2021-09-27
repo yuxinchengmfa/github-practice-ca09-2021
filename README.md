@@ -52,3 +52,4 @@
 |23|Utku Odabasi   | 12     | <https://github.com/utkuodabasi> | <https://github.com/utkuodabasi/individual_assignment.git> |  | 27.09.2021 | 
 |24|Gianmaria Bartoccioni  | 09     | Gianmaria13
 |25|Helena Tang    |16   |tythelena   |<https://github.com/tythelena/Individual-Assignment.git>. 
+|26|Kanishk Kedia   | 13     | kediakanishk |https://github.com/kediakanishk/individual_assignment   |        |2021-08-28 |
