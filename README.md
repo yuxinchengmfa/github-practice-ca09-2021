@@ -25,9 +25,25 @@
 
 # Class GitHub Table with all individual projects
 
-|No | Name | Study Group | GitHub ID            |Github Repo for individual assignment                      |Website address              |Date Added     |  
-|:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/>   |<https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2021-08-28 |
-|00|Lukas Kugler   | 12     | Lukas-LBS
-|00|Jacopo Lorusso Caputi | B3 | JacopoLC 
+|01|Lukas Kugler   | 12     | Lukas-LBS
+|02|Dhruv Raghunath   | A3     | implaser01 |<https://github.com/implaser01/>   |>        |2021-09-27 |
+|03|El Asmar Karim | A06 | kelasmar  |https://github.com/kelasmar/individual_project.git  |Website address              |2021-09-27
+|04 | Nikolaos Nektarios Katsanevakis | A14 | Nkatsanev            |Github Repo for individual assignment                      |Website address              |Date Added     |  
+|05|Metavee Luangthawornkul   | B9     | metaveel |https://github.com/metaveel/individual_assignment.git  |      |2021-09-27 |
+|06|Mengyu Liu   | 11    | Mengyu Liu |<https://github.com/mengyuliu0531/>   |<https://github.com/mengyuliu0531/individual_assignment.git>        |2021-08-28 |
+|07|Nohad Mortada   | 11     | nohadmortada
+|08|John Purcell   | 3     | JP-98 | https://github.com/JP-98/individual_assignment.git |
+|09|Leilah Plant-Tchenguiz   | B4     | leilahpt |<https://github.com/leilahpt/individual_assignment.git>   |        |2021-09-27 |
+|10|Yueru Wang   | none     | YueruWang |<https://github.com/YueruWang/individual_project>   |
+|11|Aayush Khurana   | 07   | Aayush-Khurana |https://github.com/Aayush-Khurana/Individual_assignment.git |2021-08-28 |
+|12|Cissie Xu   | B9   | cecexu21 |<https://github.com/cecexu21/individual-assignment>   |2021-09-27|
+|13|Stella Xu   | 8     | StellaXuSpace |<https://github.com/StellaXuSpace>   |<https://github.com/StellaXuSpace/Individual_Assignment.git/>        |2021-09-27 |
+|14|Jiaye Bai   | 11     | JiayeB
+|15|Martin Doumanov   | 4     | martin-doumanov |<https://github.com/martin-doumanov/individual_assignment>   |        |2021-09-27 |
+|16|Guido Bassi   | 13     | go2GB |https://github.com/go2GB/Individual_Assignment#individual_assignment   |          |2021-09-27 |
+|17|Yao Li   | 2     | OpheliaMFA | <https://github.com/OpheliaMFA/Individual_Assignment#individual_assignment>   |
+|18|Ismail Riahi   | 3    | Ismailriahi | https://github.com/ismailriahi/Individual_Assignment
+|19|Reena K Venkatesh   | 13     | reenalisha24 |<https://github.com/reenalisha24/individual_assignment>   |
+|20|Jacopo Lorusso Caputi | B3 | JacopoLC 
