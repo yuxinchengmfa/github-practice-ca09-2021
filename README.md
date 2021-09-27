@@ -74,4 +74,5 @@
 |45|Akos Ersek     | 10     | aersekk | https://github.com/aersekk/individual_assignment.git
 |46|Allen Zeng   | 4     | Allen-MFA2022 |<https://github.com/Allen-MFA2022/Individual_Assignment>   |
 |47| Abigail Shu   | B6     | abigailshu | <https://github.com/abigailshu/individual_assignment> | |2021-09-27 |
+|48|Samuel Fuchs   | 15     | sfuchs14 |<https://github.com/sfuchs14>   |<>        |2021-08-28 |
 
