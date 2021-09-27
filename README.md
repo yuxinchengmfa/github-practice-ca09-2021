@@ -36,3 +36,4 @@
 |07|Nohad Mortada   | 11     | nohadmortada
 |08|John Purcell   | 3     | JP-98 | https://github.com/JP-98/individual_assignment.git |
 |09|Leilah Plant-Tchenguiz   | B4     | leilahpt |<https://github.com/leilahpt/individual_assignment.git>   |        |2021-09-27 |
+|10|Yueru Wang   | none     | YueruWang |<https://github.com/YueruWang/individual_project>   |
