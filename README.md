@@ -90,4 +90,5 @@
 |61|Aaryaman Duggal   | none     | Aaryamanduggal |<https://github.com/Aaryamanduggal/>   |<https://github.com/Aaryamanduggal/individual_assignment>        |2021-09-27 |
 |62|Doris Liu   | 03     | DorisLiu-MFA |<https://github.com/DorisLiu-MFA/>   |<>        |2021-09-27 |
 |63|Jared Bloom   | B1     | jmaxbloom
+|64|Otto Moltke    | 4      | OMoltke | https://github.com/OMoltke/Individual_Assignment.git    |
 
