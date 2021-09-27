@@ -47,3 +47,5 @@
 |18|Ismail Riahi   | 3    | Ismailriahi | https://github.com/ismailriahi/Individual_Assignment
 |19|Reena K Venkatesh   | 13     | reenalisha24 |<https://github.com/reenalisha24/individual_assignment>   |
 |20|Jacopo Lorusso Caputi | B3 | JacopoLC 
+|21|Elle Li   | B12     | ElleMengtianLi |<https://github.com/ElleMengtianLi/Individual_Assignment.git>   |
+
