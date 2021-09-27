@@ -61,3 +61,4 @@
 |32|Rainy Wei   | 16     | rainywei99 |<https://github.com/rainywei99/individual_assignment>   |
 |33|Sherington Amarapala   | 9     | shry97 |<https://github.com/shry97/individual_assignment>   |       |2021-09-27 |
 |34|Ivo Margetich   | 3     | IvoMargetich |   |       |2021-09-27 |
+|35|Isahelen Chen   | 10     | Isahelen-LBS
