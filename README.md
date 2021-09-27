@@ -87,4 +87,4 @@
 |58|Parthivi Bansal   | none     | parthivibansal |<https://github.com/parthivibansal>   |<https://github.com/parthivibansal/individual_assignment>        |2021-09-27 |
 |59|Hanrui Wang   | B15     | careyhwang |<https://github.com/careyhwang/Individual-Assignment>   |        |2021-09-27 |
 |60|Susan Wang   | none     | susanwang111 |  |     |2021-09-27 |
-
+|61|Aaryaman Duggal   | none     | Aaryamanduggal |<https://github.com/Aaryamanduggal/>   |<https://github.com/Aaryamanduggal/individual_assignment>        |2021-09-27 |
