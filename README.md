@@ -55,3 +55,4 @@
 |26|Kanishk Kedia   | 13     | kediakanishk |https://github.com/kediakanishk/individual_assignment   |        |2021-08-28 |
 |27|Guanwen Cao    | 12     | MelonGuanwen | https://github.com/MelonGuanwen/Individual_assignment
 |28|Qiyuan Jia   | 7     | QiyuanJia-0928 | <https://github.com/QiyuanJia-0928/individual_assignment> | 2021-09-27 |
+|29|Tianyi Ying    | B6     | ty9837
