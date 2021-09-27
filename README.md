@@ -77,4 +77,5 @@
 |48|Samuel Fuchs   | 15     | sfuchs14 |<https://github.com/sfuchs14>   |<>        |2021-08-28 |
 |49|Ghali Benkirane   | 14     | ghalibenkirane | https://github.com/ghalibenkirane/individual_assignment.git
 |50|Lennart Rath   | 13     | LennartRath | https://github.com/LennartRath/Individual_Assignment  |     |2021-09-27 |
+|51|Lexie Wang   | B8   | Sze-Yuan | <https://github.com/Sze-Yuan/individual_assignment>   | <https://github.com/Sze-Yuan>     |2021-09-27 |
 
