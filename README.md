@@ -63,4 +63,5 @@
 |34|Ivo Margetich   | 3     | IvoMargetich |   |       |2021-09-27 |
 |35|Isahelen Chen   | 10     | Isahelen-LBS
 |36|Keshav Mahendra   | none     | keshavmahendra |<https://github.com/keshavmahendra/individual_assignment>        |2021-09-27 |
+|37|Neel Malhotra   | B4     | neelmalhotra05 | https://github.com/neelmalhotra05/individual_assignment#individual_assignment | ___________ | 27/09/2021
 
