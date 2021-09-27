@@ -92,4 +92,5 @@
 |63|Jared Bloom   | B1     | jmaxbloom
 |64|Otto Moltke    | 4      | OMoltke | https://github.com/OMoltke/Individual_Assignment.git    |
 |65|Vasileios Papoutsoglou | 10 | none |papoutsoglouv | https://github.com/papoutsoglouv/Vasileios-Papoutsoglou.git
+|66|Samon Sannchuli | 8 | samon-sanchuli | https://github.com/samon-sanchuli/individual_assignment.git | 2021-09-27
 
