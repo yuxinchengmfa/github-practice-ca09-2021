@@ -81,3 +81,4 @@
 |52|Anaanya Chopra  | 5    | Anaanyachopra |
 |53|Moritz Gort   | 07     | Moritz-LBS |
 |54|Louis Frach   | 5     | lfrach |https://github.com/lfrach/individual_assignment   |        |2021-09-27 |
+|55|Margherita Latif   | B2     | MVLatif
