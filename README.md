@@ -53,3 +53,5 @@
 |24|Gianmaria Bartoccioni  | 09     | Gianmaria13
 |25|Helena Tang    |16   |tythelena   |<https://github.com/tythelena/Individual-Assignment.git>. 
 |26|Kanishk Kedia   | 13     | kediakanishk |https://github.com/kediakanishk/individual_assignment   |        |2021-08-28 |
+|27|Guanwen Cao    | 12     | MelonGuanwen | https://github.com/MelonGuanwen/Individual_assignment
+
