@@ -76,4 +76,5 @@
 |47| Abigail Shu   | B6     | abigailshu | <https://github.com/abigailshu/individual_assignment> | |2021-09-27 |
 |48|Samuel Fuchs   | 15     | sfuchs14 |<https://github.com/sfuchs14>   |<>        |2021-08-28 |
 |49|Ghali Benkirane   | 14     | ghalibenkirane | https://github.com/ghalibenkirane/individual_assignment.git
+|50|Lennart Rath   | 13     | LennartRath | https://github.com/LennartRath/Individual_Assignment  |     |2021-09-27 |
 
