@@ -57,3 +57,4 @@
 |28|Qiyuan Jia   | 7     | QiyuanJia-0928 | <https://github.com/QiyuanJia-0928/individual_assignment> | 2021-09-27 |
 |29|Tianyi Ying    | B6     | ty9837
 |30|Jay Bansal   | 12     | Jay-Bansal | https://github.com/Jay-Bansal/individual_assignment | https://www.linkedin.com/in/jaybansal99 | 2021-09-27
+|31|Axel Tagnon   | 11     | axel-tagnon | https://github.com/axel-tagnon/individual_assignment.git
