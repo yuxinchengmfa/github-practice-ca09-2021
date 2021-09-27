@@ -68,4 +68,5 @@
 |39|Giorgi Mdivnishvili   | 5     | Giorgi-LBS
 |40|Mariana Pino Tello   | B7     | MarianaPinoTello
 |41|Peter Ambrosiussen  | B1     | PeterAmbrosiussen |https://github.com/PeterAmbrosiussen/Individual_Assignment   |n.a.        |2021-09-27 |
+|42|Soham Dalwani   | B1     | sd6599
 
