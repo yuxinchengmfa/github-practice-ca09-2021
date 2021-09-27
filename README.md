@@ -27,7 +27,7 @@
 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/>   |<https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2021-08-28 |
-|01|Lukas Kugler   | 12     | Lukas-LBS |
+|01|Lukas Kugler   | 12     | Lukas-LBS | |||
 |02|Dhruv Raghunath   | A3     | implaser01 |<https://github.com/implaser01/>   |>        |2021-09-27 |
 |03|El Asmar Karim | A06 | kelasmar  |https://github.com/kelasmar/individual_project.git  |Website address              |2021-09-27|
 |04 | Nikolaos Nektarios Katsanevakis | A14 | Nkatsanev            |Github Repo for individual assignment                      |Website address              |Date Added     |  
@@ -79,4 +79,5 @@
 |50|Lennart Rath   | 13     | LennartRath | https://github.com/LennartRath/Individual_Assignment  |     |2021-09-27 |
 |51|Lexie Wang   | B8   | Sze-Yuan | <https://github.com/Sze-Yuan/individual_assignment>   | <https://github.com/Sze-Yuan>     |2021-09-27 |
 |52|Anaanya Chopra  | 5    | Anaanyachopra |
-|00|Moritz Gort   | 07     | Moritz-LBS |
+|53|Moritz Gort   | 07     | Moritz-LBS |
+|54|Louis Frach   | 5     | lfrach |https://github.com/lfrach/individual_assignment   |        |2021-09-27 |
