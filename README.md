@@ -100,4 +100,5 @@
 |71|Katerina Karavioti   | 16     | Katerinakaravioti
 |72|Jiaye Bai   | 11     | Jiaye-LBS
 |:73|:Tristan Chapman|:TristanChapman98|:|:https://github.com/TristanChapman98/Individual_Project|:------------------------------------|:27/09/2021| 
+|74|Aditya Khurana   | 10     | Aditya-LBS
 
