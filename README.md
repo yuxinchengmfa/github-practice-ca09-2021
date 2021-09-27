@@ -93,4 +93,5 @@
 |64|Otto Moltke    | 4      | OMoltke | https://github.com/OMoltke/Individual_Assignment.git    |
 |65|Vasileios Papoutsoglou | 10 | none |papoutsoglouv | https://github.com/papoutsoglouv/Vasileios-Papoutsoglou.git
 |66|Samon Sannchuli | 8 | samon-sanchuli | https://github.com/samon-sanchuli/individual_assignment.git | 2021-09-27
+|67|David Belker   | B1     | davidbelker |https://github.com/davidbelker/individual_assignment   |n/a        |2021-09-28 |
 
