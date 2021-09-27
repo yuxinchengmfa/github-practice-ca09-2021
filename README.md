@@ -30,3 +30,4 @@
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/>   |<https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2021-08-28 |
 |00|Lukas Kugler   | 12     | Lukas-LBS
+|00|Guido Bassi   | 13     | go2GB |https://github.com/go2GB/Individual_Assignment#individual_assignment   |          |2021-09-27 |
