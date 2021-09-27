@@ -63,7 +63,7 @@
 |34|Ivo Margetich   | 3     | IvoMargetich |   |       |2021-09-27 |
 |35|Isahelen Chen   | 10     | Isahelen-LBS|
 |36|Keshav Mahendra   | none     | keshavmahendra |<https://github.com/keshavmahendra/individual_assignment>        |2021-09-27 |
-|37|Neel Malhotra   | B4     | neelmalhotra05 | https://github.com/neelmalhotra05/individual_assignment#individual_assignment | ___________ | 27/09/2021|
+|37|Neel Malhotra   | B4     | neelmalhotra05 | https://github.com/neelmalhotra05/individual_assignment#individual_assignment |  | 27/09/2021|
 |38|Daria Gneusheva   | 4     | DariaGneusheva |
 |39|Giorgi Mdivnishvili   | 5     | Giorgi-LBS|
 |40|Mariana Pino Tello   | B7     | MarianaPinoTello|
@@ -82,3 +82,4 @@
 |53|Moritz Gort   | 07     | Moritz-LBS |
 |54|Louis Frach   | 5     | lfrach |https://github.com/lfrach/individual_assignment   |        |2021-09-27 |
 |55|Margherita Latif   | B2     | MVLatif
+|56|Samson Philipose   | 16     | samsonmphilipose | <https://github.com/samsonphilipose/individual_assignment>   |<none yet>        |2021-09-27 |
