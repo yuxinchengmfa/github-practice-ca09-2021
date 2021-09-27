@@ -25,10 +25,9 @@
 
 # Class GitHub Table with all individual projects
 
-|No |Name | Study Group | GitHub ID    |Github Repo for individual assignment  |Website address              |Date Added     |  
-|:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/>   |<https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2021-08-28 |
 |01|Lukas Kugler   | 12     | Lukas-LBS
 |02|Dhruv Raghunath   | A3     | implaser01 |<https://github.com/implaser01/>   |>        |2021-09-27 |
 |03|El Asmar Karim | A06 | kelasmar  |https://github.com/kelasmar/individual_project.git  |Website address              |2021-09-27
+|04 | Nikolaos Nektarios Katsanevakis | A14 | Nkatsanev            |Github Repo for individual assignment                      |Website address              |Date Added     |  
