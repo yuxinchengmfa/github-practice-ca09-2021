@@ -69,4 +69,5 @@
 |40|Mariana Pino Tello   | B7     | MarianaPinoTello
 |41|Peter Ambrosiussen  | B1     | PeterAmbrosiussen |https://github.com/PeterAmbrosiussen/Individual_Assignment   |n.a.        |2021-09-27 |
 |42|Soham Dalwani   | B1     | sd6599
+|43|Chloé Baubier   | B12     | cbaubier | https://github.com/cbaubier/Individual_assignment | ||
 
