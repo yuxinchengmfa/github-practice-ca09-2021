@@ -41,3 +41,4 @@
 |12|Cissie Xu   | B9   | cecexu21 |<https://github.com/cecexu21/individual-assignment>   |2021-09-27|
 |13|Stella Xu   | 8     | StellaXuSpace |<https://github.com/StellaXuSpace>   |<https://github.com/StellaXuSpace/Individual_Assignment.git/>        |2021-09-27 |
 |14|Jiaye Bai   | 11     | JiayeB
+|15|Martin Doumanov   | 4     | martin-doumanov |<https://github.com/martin-doumanov/individual_assignment>   |        |2021-09-27 |
