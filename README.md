@@ -48,4 +48,5 @@
 |19|Reena K Venkatesh   | 13     | reenalisha24 |<https://github.com/reenalisha24/individual_assignment>   |
 |20|Jacopo Lorusso Caputi | B3 | JacopoLC 
 |21|Elle Li   | B12     | ElleMengtianLi |<https://github.com/ElleMengtianLi/Individual_Assignment.git>   |
+|22|Mario Pucinelli Filhoi   | 10     | MPucinelli | https://github.com/MPucinelli/Individual_Assignment | Confidential | 27/09/2021
 
