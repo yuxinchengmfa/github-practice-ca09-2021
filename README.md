@@ -25,9 +25,13 @@
 
 # Class GitHub Table with all individual projects
 
-|No | Name | Study Group | GitHub ID            |Github Repo for individual assignment                      |Website address              |Date Added     |  
-|:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/>   |<https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2021-08-28 |
-|00|Lukas Kugler   | 12     | Lukas-LBS
-|00|John Purcell   | 3     | JP-98 | https://github.com/JP-98/individual_assignment.git |
+|01|Lukas Kugler   | 12     | Lukas-LBS
+|02|Dhruv Raghunath   | A3     | implaser01 |<https://github.com/implaser01/>   |>        |2021-09-27 |
+|03|El Asmar Karim | A06 | kelasmar  |https://github.com/kelasmar/individual_project.git  |Website address              |2021-09-27
+|04 | Nikolaos Nektarios Katsanevakis | A14 | Nkatsanev            |Github Repo for individual assignment                      |Website address              |Date Added     |  
+|05|Metavee Luangthawornkul   | B9     | metaveel |https://github.com/metaveel/individual_assignment.git  |      |2021-09-27 |
+|06|Mengyu Liu   | 11    | Mengyu Liu |<https://github.com/mengyuliu0531/>   |<https://github.com/mengyuliu0531/individual_assignment.git>        |2021-08-28 |
+|07|Nohad Mortada   | 11     | nohadmortada
+|08|John Purcell   | 3     | JP-98 | https://github.com/JP-98/individual_assignment.git |
