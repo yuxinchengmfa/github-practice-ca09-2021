@@ -72,3 +72,5 @@
 |43|Chloé Baubier   | B12     | cbaubier | https://github.com/cbaubier/Individual_assignment | ||
 |44|Ria Bhana   | 6     | riabhana
 |45|Akos Ersek     | 10     | aersekk | https://github.com/aersekk/individual_assignment.git
+|46|Allen Zeng   | 4     | Allen-MFA2022 |<https://github.com/Allen-MFA2022/Individual_Assignment>   |
+
