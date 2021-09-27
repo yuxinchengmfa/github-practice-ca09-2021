@@ -96,4 +96,4 @@
 |67|David Belker   | B1     | davidbelker |https://github.com/davidbelker/individual_assignment   |n/a        |2021-09-28 |
 |68|Diego Alfaro   | 8     | Diego-LBS
 |69|Abheek Dutta   | B15     | abheekdutta1997
-
+|70|Richard Jones   | 6     | RichardJones645
