@@ -42,3 +42,5 @@
 |13|Stella Xu   | 8     | StellaXuSpace |<https://github.com/StellaXuSpace>   |<https://github.com/StellaXuSpace/Individual_Assignment.git/>        |2021-09-27 |
 |14|Jiaye Bai   | 11     | JiayeB
 |15|Martin Doumanov   | 4     | martin-doumanov |<https://github.com/martin-doumanov/individual_assignment>   |        |2021-09-27 |
+|16|Guido Bassi   | 13     | go2GB |https://github.com/go2GB/Individual_Assignment#individual_assignment   |          |2021-09-27 |
+
