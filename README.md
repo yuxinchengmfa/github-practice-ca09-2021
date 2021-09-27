@@ -44,3 +44,4 @@
 |15|Martin Doumanov   | 4     | martin-doumanov |<https://github.com/martin-doumanov/individual_assignment>   |        |2021-09-27 |
 |16|Guido Bassi   | 13     | go2GB |https://github.com/go2GB/Individual_Assignment#individual_assignment   |          |2021-09-27 |
 |17|Yao Li   | 2     | OpheliaMFA | <https://github.com/OpheliaMFA/Individual_Assignment#individual_assignment>   |
+|18|Ismail Riahi   | 3    | Ismailriahi | https://github.com/ismailriahi/Individual_Assignment
