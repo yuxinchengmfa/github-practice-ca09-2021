@@ -49,4 +49,4 @@
 |20|Jacopo Lorusso Caputi | B3 | JacopoLC 
 |21|Elle Li   | B12     | ElleMengtianLi |<https://github.com/ElleMengtianLi/Individual_Assignment.git>   |
 |22|Mario Pucinelli Filhoi   | 10     | MPucinelli | https://github.com/MPucinelli/Individual_Assignment | Confidential | 27/09/2021
-
+|23|Utku Odabasi   | 12     | <https://github.com/utkuodabasi> | <https://github.com/utkuodabasi/individual_assignment.git> |  | 27.09.2021 | 
