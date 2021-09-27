@@ -58,3 +58,4 @@
 |29|Tianyi Ying    | B6     | ty9837
 |30|Jay Bansal   | 12     | Jay-Bansal | https://github.com/Jay-Bansal/individual_assignment | https://www.linkedin.com/in/jaybansal99 | 2021-09-27
 |31|Axel Tagnon   | 11     | axel-tagnon | https://github.com/axel-tagnon/individual_assignment.git
+|32|Rainy Wei   | 16     | rainywei99 |<https://github.com/rainywei99/individual_assignment>   |
