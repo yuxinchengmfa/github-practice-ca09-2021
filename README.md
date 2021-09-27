@@ -88,3 +88,5 @@
 |59|Hanrui Wang   | B15     | careyhwang |<https://github.com/careyhwang/Individual-Assignment>   |        |2021-09-27 |
 |60|Susan Wang   | none     | susanwang111 |  |     |2021-09-27 |
 |61|Aaryaman Duggal   | none     | Aaryamanduggal |<https://github.com/Aaryamanduggal/>   |<https://github.com/Aaryamanduggal/individual_assignment>        |2021-09-27 |
+|62|Doris Liu   | 03     | DorisLiu-MFA |<https://github.com/DorisLiu-MFA/>   |<>        |2021-09-27 |
+
