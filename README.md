@@ -54,4 +54,4 @@
 |25|Helena Tang    |16   |tythelena   |<https://github.com/tythelena/Individual-Assignment.git>. 
 |26|Kanishk Kedia   | 13     | kediakanishk |https://github.com/kediakanishk/individual_assignment   |        |2021-08-28 |
 |27|Guanwen Cao    | 12     | MelonGuanwen | https://github.com/MelonGuanwen/Individual_assignment
-
+|28|Qiyuan Jia   | 7     | QiyuanJia-0928 | <https://github.com/QiyuanJia-0928/individual_assignment> | 2021-09-27 |
