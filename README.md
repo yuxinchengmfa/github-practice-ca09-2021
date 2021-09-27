@@ -33,3 +33,4 @@
 |04 | Nikolaos Nektarios Katsanevakis | A14 | Nkatsanev            |Github Repo for individual assignment                      |Website address              |Date Added     |  
 |05|Metavee Luangthawornkul   | B9     | metaveel |https://github.com/metaveel/individual_assignment.git  |      |2021-09-27 |
 |06|Mengyu Liu   | 11    | Mengyu Liu |<https://github.com/mengyuliu0531/>   |<https://github.com/mengyuliu0531/individual_assignment.git>        |2021-08-28 |
+|07|Nohad Mortada   | 11     | nohadmortada
