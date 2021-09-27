@@ -39,4 +39,4 @@
 |10|Yueru Wang   | none     | YueruWang |<https://github.com/YueruWang/individual_project>   |
 |11|Aayush Khurana   | 07   | Aayush-Khurana |https://github.com/Aayush-Khurana/Individual_assignment.git |2021-08-28 |
 |12|Cissie Xu   | B9   | cecexu21 |<https://github.com/cecexu21/individual-assignment>   |2021-09-27|
-
+|13|Stella Xu   | 8     | StellaXuSpace |<https://github.com/StellaXuSpace>   |<https://github.com/StellaXuSpace/Individual_Assignment.git/>        |2021-09-27 |
