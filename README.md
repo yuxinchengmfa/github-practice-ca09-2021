@@ -118,3 +118,4 @@
 | 87  | Architt Kedia                | A4                | |                              |                                                                       | 28/09/2021      |
 | 88  | Leonardo Riolo                | 7                |Leonardo9797 |                              |                                                                       | 28/09/2021      |
 | 89  | Jacky Liu                | 3                |Jacky-Liu-LBS-MFA2022 |                              |                                                                       | 28/09/2021      |
+| 90  | Varis Sinthopruangchai                 | A1                |Varismfa |                              |                                                                       | 28/09/2021      |
