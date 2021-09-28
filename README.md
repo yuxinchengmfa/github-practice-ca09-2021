@@ -25,7 +25,6 @@
 
 # Class GitHub Table with all individual projects
 
-=======
 | No  | Name                       | Study Group       | Github ID                          | Repo                                                                              | website                                                                 | date added      |
 |-----|----------------------------|-------------------|------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------|
 | 0   | Kostis Christodoulou       |  none             |  kostis-christodoulou              | <https://github.com/kostis-christodoulou/my_gorgeous_website>                     | <https://kostisportfolio-2021.netlify.app/>                             | 28/08/2021      |
@@ -125,3 +124,4 @@
 | 93  |Sophie Touami                  |      | So-tou |<>   |<>        |2021-09-27 |
 | 94  |Hee Wen Loo                  |  10    | heewenloo |<>   |<>        |2021-09-27 |
 | 95  |Ziqi Li                  |       | Zi-qi |<>   |<>        |2021-09-27 |
+| 96  |Everett                  |   11    | ytanglbs |<>   |<>        |2021-09-27 |
