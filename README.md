@@ -125,3 +125,4 @@
 | 94  |Hee Wen Loo                  |  10    | heewenloo |<>   |<>        |2021-09-27 |
 | 95  |Ziqi Li                  |       | Zi-qi |<>   |<>        |2021-09-27 |
 | 96  |Everett                  |   11    | ytanglbs |<>   |<>        |2021-09-27 |
+| 97  |Max Arachtingi                  |   A2    | MaxArachtingi |<>   |<>        |2021-09-27 |
