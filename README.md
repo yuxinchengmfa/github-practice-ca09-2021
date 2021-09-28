@@ -127,3 +127,5 @@
 | 96  |Everett                  |   11    | ytanglbs |<>   |<>        |2021-09-27 |
 | 97  |Max Arachtingi                  |   A2    | MaxArachtingi |<>   |<>        |2021-09-27 |
 | 98  |Pauline Cohen                  |   1    | paulinecohenmfa |<>   |<>        |2021-09-27 |
+| 99 |Xiaofan Li | A2 | laura37li |<>   |<>        |2021-09-28 |https://github.com/laura37li/individual_project.git
+|100 |Xinyue Zhao| B6 | hediwg    |<>   |<>        |2021-09-28 |https://github.com/hediwg/individual_project.git
