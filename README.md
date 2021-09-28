@@ -101,7 +101,7 @@
 | 70  | Richard Jones              | 6                 |  RichardJones645                   |                                                                                   |                                                                         |                 |
 | 71  | Katerina Karavioti         | 16                |  Katerinakaravioti                 |                                                                                   |                                                                         |                 |
 | 72  | Jiaye Bai                  | 11                |  Jiaye-LBS                         |                                                                                   |                                                                         |                 |
-| 73  | Tristan Chapman           | TristanChapman98 |                                   | <https://github.com/TristanChapman98/Individual_Project>                         | ------------------------------------                                   | 27/09/2021     |
+| 73  | Tristan Chapman            | TristanChapman98  |                                   | <https://github.com/TristanChapman98/Individual_Project>                         | ------------------------------------                                   | 27/09/2021     |
 | 74  | Aditya Khurana             | 10                |  Aditya-LBS                        |                                                                                   |                                                                         |                 |
 | 75  | Katrin Haas                |  A14              |  katrin-hs                         |                                                                                   |                                                                         | 27/09/2021      |
 | 76  |  Lindsey Zastawny          |  12               | lindseyzast                        |                                    
@@ -119,3 +119,5 @@
 | 88  | Leonardo Riolo                | 7                |Leonardo9797 |                              |                                                                       | 28/09/2021      |
 | 89  | Jacky Liu                | 3                |Jacky-Liu-LBS-MFA2022 |                              |                                                                       | 28/09/2021      |
 | 90  | Varis Sinthopruangchai                 | A1                |Varismfa |                              |                                                                       | 28/09/2021      |
+|228  |Fedor Blinov                  | A7     | FSBlinov |<https://github.com/FSBlinov/individual_project>   |<>        |2021-09-27 |
+
