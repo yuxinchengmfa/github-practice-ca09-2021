@@ -122,3 +122,4 @@
 | 91  |Fedor Blinov                  | A7     | FSBlinov |<https://github.com/FSBlinov/individual_project>   |<>        |2021-09-27 |
 | 92  |Xiaobing Liu                  | 08     | XiaobingLiu9 |<>   |<>        |2021-09-27 |
 | 93  |Sophie Touami                  |      | So-tou |<>   |<>        |2021-09-27 |
+| 94  |Hee Wen Loo                  |  10    | heewenloo |<>   |<>        |2021-09-27 |
