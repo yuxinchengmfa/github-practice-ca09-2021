@@ -107,3 +107,4 @@
 | 76  |  Lindsey Zastawny          |  12               | lindseyzast                        |                                    
 | 77  | Liam Cheung                | 11                | LiamCheung0128                   | <https://github.com/LiamCheung0128/Individual_Assignment>                              |                                                                       | 27/09/2021      |
 | 78  | Atakan Erdogdu              |  2             |  AtakanErdogdu|28/09/2021 |  https://github.com/AtakanErdogdu/individual_project                                         |                                                                                   
+| 79  | Eunice Liu               | A2                | Liu-Yucen-Eunice                   | <https://github.com/Liu-Yucen-Eunice/Individual_project.git >                              |                                                                       | 2021-09-27       |
