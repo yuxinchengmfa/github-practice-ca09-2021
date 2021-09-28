@@ -110,3 +110,4 @@
 | 79  | Eunice Liu               | A2                | Liu-Yucen-Eunice                   | <https://github.com/Liu-Yucen-Eunice/Individual_project.git >                              |                                                                       | 2021-09-27       |
 | 80  | Sid Chen                | A14                | SidChenGithub                   | <https://github.com/SidChenGithub/>                             |                                                                       | 27/09/2021      |
 | 81  | Sanskriti Bajaj               |13                | SanskritiBajaj98                   |                             |                                                                       | 27/09/2021      |
+| 82  | Francesco Sartori              |13                | frasart                   |                             |                                                                       | 27/09/2021      |
