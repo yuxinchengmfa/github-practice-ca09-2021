@@ -117,3 +117,4 @@
 | 86  | Peng Chen                | A1               | Peng9899                   | <https://github.com/Peng9899/Individual-_project.git>                             |                                                                       | 28/09/2021      |
 | 87  | Architt Kedia                | A4                | |                              |                                                                       | 28/09/2021      |
 | 88  | Leonardo Riolo                | 7                |Leonardo9797 |                              |                                                                       | 28/09/2021      |
+| 89  | Jacky Liu                | 3                |Jacky-Liu-LBS-MFA2022 |                              |                                                                       | 28/09/2021      |
