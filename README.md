@@ -112,3 +112,4 @@
 | 81  | Sanskriti Bajaj               |13                | SanskritiBajaj98                   |                             |                                                                       | 27/09/2021      |
 | 82  | Francesco Sartori              |13                | frasart                   |                             |                                                                       | 27/09/2021      |
 | 83  | Daria Gamaley              |4                | daria-gamaley                   |  <https://github.com/daria-gamaley>                           |                                                                       | 27/09/2021      
+| 84  | Aneta Gajdzinska              |12                | AnetaGaj                  |                             |                                                                       | 27/09/2021     
