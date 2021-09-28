@@ -105,4 +105,4 @@
 | 74  | Aditya Khurana             | 10                |  Aditya-LBS                        |                                                                                   |                                                                         |                 |
 | 75  | Katrin Haas                |  A14              |  katrin-hs                         |                                                                                   |                                                                         | 27/09/2021      |
 | 76  |  Lindsey Zastawny          |  12               | lindseyzast                        |                                    
-| 77  |  Liam Cheung               |  11               | LiamCheung0128 |    27/09/2021   |   <https://github.com/LiamCheung0128/Individual_Assignment>                         |     
+| N7  | Liam Cheung                | 11                | LiamCheung0128                   | <https://github.com/LiamCheung0128/Individual_Assignment>                              |                                                                       | 27/09/2021      |
