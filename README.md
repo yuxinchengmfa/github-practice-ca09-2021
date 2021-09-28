@@ -111,3 +111,4 @@
 | 80  | Sid Chen                | A14                | SidChenGithub                   | <https://github.com/SidChenGithub/>                             |                                                                       | 27/09/2021      |
 | 81  | Sanskriti Bajaj               |13                | SanskritiBajaj98                   |                             |                                                                       | 27/09/2021      |
 | 82  | Francesco Sartori              |13                | frasart                   |                             |                                                                       | 27/09/2021      |
+| 83  | Daria Gamaley              |4                | daria-gamaley                   |  <https://github.com/daria-gamaley>                           |                                                                       | 27/09/2021      
