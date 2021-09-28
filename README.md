@@ -119,5 +119,5 @@
 | 88  | Leonardo Riolo                | 7                |Leonardo9797 |                              |                                                                       | 28/09/2021      |
 | 89  | Jacky Liu                | 3                |Jacky-Liu-LBS-MFA2022 |                              |                                                                       | 28/09/2021      |
 | 90  | Varis Sinthopruangchai                 | A1                |Varismfa |                              |                                                                       | 28/09/2021      |
-|228  |Fedor Blinov                  | A7     | FSBlinov |<https://github.com/FSBlinov/individual_project>   |<>        |2021-09-27 |
-
+| 91  |Fedor Blinov                  | A7     | FSBlinov |<https://github.com/FSBlinov/individual_project>   |<>        |2021-09-27 |
+| 92  |Xiaobing Liu                  | 08     | XiaobingLiu9 |<>   |<>        |2021-09-27 |
