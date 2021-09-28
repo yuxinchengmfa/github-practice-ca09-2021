@@ -114,3 +114,4 @@
 | 83  | Daria Gamaley              |4                | daria-gamaley                   |  <https://github.com/daria-gamaley>                           |                                                                       | 27/09/2021      
 | 84  | Aneta Gajdzinska              |12                | AnetaGaj                  |                             |                                                                       | 27/09/2021     
 | 85  | Vincent Lyu                | A15                | master-of-beginner                   | <https://github.com/master-of-beginner/Individual-project>                             |                                                                       | 28/09/2021      |
+|00|Peng Chen   | A1     | Peng9899 |https://github.com/Peng9899/Individual-_project.git |<https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2021-09-27 |
