@@ -132,3 +132,4 @@
 |101 |Ray Park| A6 | raypark0309    |<>   |<>        |2021-09-28| https://github.com/raypark0309/individual_project
 | 102  | Adrien Duverger            | B13              |  adriendvrg                  | 2021-09-28    |  https://github.com/adriendvrg/Individual_assignement.git
 | 104 | Huilun Hu            | A10              |     huilun910             | 2021-10-04    |  https://github.com/huilun910/individual_project.git
+| 105 | Yuzhou Li            | A13             |     Joe9806             | 2021-10-04    | 
