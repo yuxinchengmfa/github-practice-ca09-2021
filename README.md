@@ -134,3 +134,4 @@
 | 104 | Yiyue Hu            | A09              |     YiyueHu68             | 2021-10-04    |   https://github.com/YiyueHu68/individual_project.git
 | 105 | Sibusisiwe Dhlodhlo   | B1    |     busieddhlodhlo  |    |  https://github.com/busieddhlodhlo/Individual_Assignment
 | 106 | Maggie Guo   | A4    |     MaggieJingyiGuo  |    |  https://github.com/MaggieJingyiGuo/individual_project.git
+| 107 | Yuzhou Li            | A13             |     Joe9806             | 2021-10-04    | 
