@@ -28,7 +28,6 @@
 | No  | Name                       | Study Group       | Github ID                          | Repo                                                                              | website                                                                 | date added      |
 |-----|----------------------------|-------------------|------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------|
 | 0   | Kostis Christodoulou       |  none             |  kostis-christodoulou              | <https://github.com/kostis-christodoulou/my_gorgeous_website>                     | <https://kostisportfolio-2021.netlify.app/>                             | 28/08/2021      |
-| 0   | Kostis Christodoulou       |  none             |  kostis-christodoulou              | <https://github.com/kostis-christodoulou/>                                        | <https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>         | 28/08/2021      |
 | 1   | Lukas Kugler               | A12                |  Lukas-LBS                        | https://github.com/Lukas-LBS/individual_project                                                                                  |                                                                         | 27/09/2021      |
 | 2   | Dhruv Raghunath            |  A3               |  implaser01                        | <https://github.com/implaser01/>                                                  |                                                                         | 27/09/2021      |
 | 3   | El Asmar Karim             |  A06              |  kelasmar                          | <https://github.com/kelasmar/individual_project.git>                              | Website address                                                         | 27/09/2021      |    
@@ -131,6 +130,7 @@
 |100 |Xinyue Zhao| B6 | hediwg    |<>   |<>        |2021-09-28 |https://github.com/hediwg/individual_project.git
 |101 |Ray Park| A6 | raypark0309    |<>   |<>        |2021-09-28| https://github.com/raypark0309/individual_project
 | 102  | Adrien Duverger            | B13              |  adriendvrg                  | 2021-09-28    |  https://github.com/adriendvrg/Individual_assignement.git
-| 104 | Huilun Hu            | A10              |     huilun910             | 2021-10-04    |  https://github.com/huilun910/individual_project.git
+| 103 | Huilun Hu            | A10              |     huilun910             | 2021-10-04    |  https://github.com/huilun910/individual_project.git
+| 104 | Yiyue Hu            | A09              |     YiyueHu68             | 2021-10-04    |   https://github.com/YiyueHu68/individual_project.git
 | 105 | Sibusisiwe Dhlodhlo   | B1    |     busieddhlodhlo  |    |  https://github.com/busieddhlodhlo/Individual_Assignment
 | 106 | Maggie Guo   | A4    |     MaggieJingyiGuo  |    |  https://github.com/MaggieJingyiGuo/individual_project.git
