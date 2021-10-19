@@ -137,3 +137,5 @@
 | 107 | Yuzhou Li            | A13             |     Joe9806             | 2021-10-04    | 
 | 108 | Kaize Ying           | A9             |     Kaize Ying            | 2021-10-04    |  
 | 109 | Teen Ho Nicholas Ching            | A8              |     nickching98             | 2021-10-04    |  
+| 110 | Yuxin Cheng            | A14              |     yuxinchengmfa             | 2021-10-04    |  https://github.com/yuxinchengmfa/individual_project.git
+
